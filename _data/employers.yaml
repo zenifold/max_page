@@ -35,14 +35,14 @@
   summary: |
     I designed and built experiences for the millions of people who use GitHub every day, including recent hits such as Code Owners, Review Requests, and the Checks API.
   dribbble: https://dribbble.com/jag/projects/540365-GitHub-work
-  image: /img/case-studies/case-study-github-improving-code-review-banner-thumbnail.png
+  image: /img/case-studies/craniumtap-retooling-and-shipping.png
   image_alt: workflow illustration of code review collaboration on GitHub
   articles_layout: l_1_up
   articles_list:
     - title: Improving code review on GitHub
       summary: Iterating on a software development workflow for 20M users by removing friction and barriers.
       url: https://medium.com/@jglovier/improving-code-review-on-github-ca550ceac5b8
-      image: /img/case-studies/case-study-github-improving-code-review-banner-thumbnail.png
+      image: /img/case-studies/craniumtap-retooling-and-shipping.png
 
 - name: AppendTo
   url: https://appendto.com/
