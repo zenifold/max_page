@@ -28,18 +28,18 @@
   image: /img/case-studies/case-study-netlify.png
   image_alt: Product illustration for Netlify's core product concept
 
-- name: GitHub
+- name: CraniumTap
   url: https://github.com/jglovier
-  role: Product Design Lead
-  timeframe: 2013 – 2018
+  role: Senior Research Analyst
+  timeframe: 2019 - 2021
   summary: |
-    I designed and built experiences for the millions of people who use GitHub every day, including recent hits such as Code Owners, Review Requests, and the Checks API.
+    I designed and built experiences, automations, and new processes for the imrpovement of CraniumTap's suite of research and analytics products.
   dribbble: https://dribbble.com/jag/projects/540365-GitHub-work
   image: /img/case-studies/craniumtap-retooling-and-shipping.png
   image_alt: workflow illustration of code review collaboration on GitHub
   articles_layout: l_1_up
   articles_list:
-    - title: Improving code review on GitHub
+    - title: Improving & automating the CraniumTap product suite
       summary: Iterating on a software development workflow for 20M users by removing friction and barriers.
       url: https://medium.com/@jglovier/improving-code-review-on-github-ca550ceac5b8
       image: /img/case-studies/craniumtap-retooling-and-shipping.png
