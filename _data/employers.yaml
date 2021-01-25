@@ -15,10 +15,10 @@
       url: https://medium.com/@jglovier/improving-code-review-on-github-ca550ceac5b8
       image: /img/case-studies/craniumtap-retooling-and-shipping.png
 
-- name: Netlify
-  url: https://netlify.com
-  role: Head of Design
-  timeframe: 2018
+- name: Virginia Media
+  url: https://virginiamedia.com
+  role: Business & Marketing Analyst
+  timeframe: 2019
   summary: |
     Netlify offers developers a way to host static websites and hook them up to powerful backend functionality. I helped build it's growing design team, and performed IC work for several projects.
   has_case_studies: false
