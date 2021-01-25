@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 
-### 👋 Hi! I’m Joel Glovier. I'm a human being human.
+### 👋 Hi! I’m Max Murphy. This is my page of the internet. I hope you are able to get a sense of who I am by reading through some of my site.
 
-...which is just a fun way of saying that I'm on a tech industry sabbatical right now, focused on getting healthy physically and mentally (I have had a life long journey with depression and anxiety), restoring balance to my personal and family life, re-connecting with my soul (my passions, creativity, art, faith, etc), and re-discovering my calling and inspiration for the chapter of life ahead.
+I'm not big on writing about myself, which is to say I have never been very ego focused. But, I must admit, I have done some pretty cool things in my life. A lot of my life has not been focused on career development so I'm not someone who has worked at a bunch of cool companies, or been a part of trendy startups. Most of my time has been invested into my own personal development through reading, meditation, and most importantly; deliberate solitude. Through silence comes strength, and I have been blessed to have spent so much of my waking time looking at life through an introspective lense. I want this site to be more of a diary or journal, a conversation from my mind to yours. Feel free to follow along, as there is always more to come. 
 
 In 2018 I served as Head of Design at [Netlify](https://www.netlify.com/) where I worked with a small but mighty team of passionate people making websites faster and deployment simpler.
 
