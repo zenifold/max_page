@@ -1,6 +1,6 @@
 ---
 - name: CraniumTap
-  url: https://github.com/jglovier
+  url: https://craniumtap.com
   role: Senior Research Analyst
   timeframe: 2019 - 2021
   summary: |
@@ -11,7 +11,7 @@
   articles_layout: l_1_up
   articles_list:
     - title: How I've built a research focused brand
-      summary: Iterating on a software development workflow for 20M users by removing friction and barriers.
+      summary: Researching, analyzing, and implementing sustainable business innovation for CraniumTap.
       url: https://medium.com/@jglovier/improving-code-review-on-github-ca550ceac5b8
       image: /img/case-studies/craniumtap-retooling-and-shipping.png
 
