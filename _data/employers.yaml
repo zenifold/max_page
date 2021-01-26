@@ -59,9 +59,9 @@
 #      url: #
 #      image: /img/case-studies/case-study-curekids-thumbnail.png
 
-- name: JAG Design Ideas
+- name: Freelance Business Consulting
   role: Founder
-  timeframe: 2004 – 2016
+  timeframe: 2013 - 2021
   summary: |
     Provided professional design and development services for a range of clients in the small business and startup space.
   dribbble: https://dribbble.com/jag/projects
@@ -70,10 +70,10 @@
   image: /img/freelance-client-logos.png
   image_alt: My clients have included organizations such as StackOverflow, AndCulture, CURE International, Spreadshirt, Papertrail, and many more.
 
-- name: HACC
+- name: Bachelors of Computer Science
   url: https://www.hacc.edu/
-  role: Adjunct Professor
-  timeframe: 2008-2012
+  role: BS CS - 3.54 GPA
+  timeframe: 2011 - 2014
   summary: |
     Taught non-credit technology courses at Harrisburg Area Community College to adult continuing education students, including Intro to Web Development, Photoshop, Illustrator, Computer Basics, and others.
   has_case_studies: false
