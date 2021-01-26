@@ -15,12 +15,12 @@
       url: https://medium.com/@jglovier/improving-code-review-on-github-ca550ceac5b8
       image: /img/case-studies/craniumtap-retooling-and-shipping.png
 
-- name: Virginia Media
-  url: https://virginiamedia.com
+- name: Tribune Publishing
+  url: https://www.tribpub.com/
   role: Business & Marketing Analyst
   timeframe: 2019
   summary: |
-    At Virginia Media I analyzed business and marketing data, and spearheaded the development of automation projects that created efficiencies within service fulfullment, operations workflow processes, and estimations of redundency within various departments.
+    At Tribune I help launch <a href="https://www.arcpublishing.com/">new products</a>. I spearheaded the development of workflow automation projects that created efficiencies within service fulfullment, operations processes, and estimations of redundency within various local and national teams.
   has_case_studies: false
   image: /img/case-studies/case-study-netlify.png
   image_alt: Product illustration for Netlify's core product concept
