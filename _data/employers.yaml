@@ -71,11 +71,11 @@
   image_alt: My clients have included organizations such as StackOverflow, AndCulture, CURE International, Spreadshirt, Papertrail, and many more.
 
 - name: Bachelors of Computer Science
-  url: https://www.hacc.edu/
-  role: BS CS - 3.54 GPA
+  url: https://www.ecpi.edu/
+  role: East Coast Polytechnic Institute - 3.54 GPA
   timeframe: 2011 - 2014
   summary: |
-    Taught non-credit technology courses at Harrisburg Area Community College to adult continuing education students, including Intro to Web Development, Photoshop, Illustrator, Computer Basics, and others.
+    Where I learned the fundementals of programming, system architecture, database analysis, and software engineering. I was the lead of a summer code camp where we taught Freshmen students principles of cybersecurity and ethical hacking.
   has_case_studies: false
   image: /img/teaching-img-draft.png
   image_alt: Illustration of a book and an apple.
