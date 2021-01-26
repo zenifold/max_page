@@ -32,11 +32,11 @@
   role_2: Senior Web Developer
   timeframe_2: 2016 - 2017
   summary: |
-    At AppendTo, a front-end shop, I did HTML, CSS, and JavaScript implementations of responsive websites such as <a href="http://time.com/">TIME.com</a>, <a href="https://www.zumba.com/en-US">Zumba.com</a>, and <a href="http://www.bloomberg.com/">Bloomberg.com</a>.
+    At ESI, a group of trades focused colleges, I did HTML, CSS, and JavaScript implementations of responsive websites such as <a href="https://aviationmaintenance.edu">AIM.edu</a>, <a href="https://centuracollege.edu">CenturaCollege.edu</a>, and <a href="http://tidewatertech.edu">TidewaterTech.edu</a>.
   dribbble: https://dribbble.com/jag/projects/555349-AppendTo-work
   articles_layout: l_1_up
   articles_list:
-    - title: Take a look at how I innovated online learning at ESI
+    - title: How I deployed online degree programs at ESI
       summary: Working with the TIME.com web team, Doug Neiner and I implemented a complete responsive redesign of TIME.com to help make content more accessible to readers across devices. Read about some of the challenges and opportunities we discovered in implementing responsive design.
       url: /case-studies/appendto/implementing-the-responsive-redesign-of-time-com/
       image: /img/case-studies/case-study-time-responsive-redesign-thumbnail.png
@@ -48,7 +48,7 @@
   role_2: Junior Software Engineer
   timeframe_2: 2013
   summary: |
-    I owned the design and development of a new recruitment hub for this national technical recruitment office. I retooled their email distrobution lists to feed into a cloud-based CRM to allow recruiters to contat and follow up with potential hirees.
+    I owned the design and development of a new recruitment hub for this national technical recruitment office. I retooled their support software to feed into a cloud-based CRM to allow recruiters to contact and follow up with potential hirees.
   dribbble: https://dribbble.com/jag/projects/560305-CURE-International-work
   has_case_studies: false
   image: /img/case-studies/case-study-curekids-banner.png
