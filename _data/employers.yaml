@@ -42,13 +42,13 @@
       image: /img/case-studies/case-study-time-responsive-redesign-thumbnail.png
 
 - name: Express Employment
-  url: https://cure.org/
+  url: https://www.expresspros.com/
   role: Software Engineer
   timeframe: 2013 - 2015
   role_2: Junior Software Engineer
   timeframe_2: 2013
   summary: |
-    I owned design for an 1500 person international NGO that operated a network of charitable hospitals around the world.
+    I owned the design and development of a new recruitment hub for this national technical recruitment office. I retooled their email distrobution lists to feed into a cloud-based CRM to allow recruiters to contat and follow up with potential hirees.
   dribbble: https://dribbble.com/jag/projects/560305-CURE-International-work
   has_case_studies: false
   image: /img/case-studies/case-study-curekids-banner.png
