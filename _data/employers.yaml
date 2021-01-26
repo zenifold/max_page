@@ -25,10 +25,12 @@
   image: /img/case-studies/case-study-netlify.png
   image_alt: Product illustration for Netlify's core product concept
 
-- name: AppendTo
+- name: ESI
   url: https://appendto.com/
-  role: Visual Design Engineer, Tech Lead
-  timeframe: 2012 – 2013
+  role: Senior Project Manager
+  timeframe: 2017 - 2019
+  role_2: Senior Web Developer
+  timeframe_2: 2016 - 2017
   summary: |
     At AppendTo, a front-end shop, I did HTML, CSS, and JavaScript implementations of responsive websites such as <a href="http://time.com/">TIME.com</a>, <a href="https://www.zumba.com/en-US">Zumba.com</a>, and <a href="http://www.bloomberg.com/">Bloomberg.com</a>.
   dribbble: https://dribbble.com/jag/projects/555349-AppendTo-work
@@ -39,12 +41,12 @@
       url: /case-studies/appendto/implementing-the-responsive-redesign-of-time-com/
       image: /img/case-studies/case-study-time-responsive-redesign-thumbnail.png
 
-- name: CURE International
+- name: Express Employment
   url: https://cure.org/
-  role: Principal Designer
-  timeframe: 2011 – 2012
-  role_2: Web & Graphic Designer
-  timeframe_2: 2009 – 2011
+  role: Software Engineer
+  timeframe: 2013 - 2015
+  role_2: Junior Software Engineer
+  timeframe_2: 2013
   summary: |
     I owned design for an 1500 person international NGO that operated a network of charitable hospitals around the world.
   dribbble: https://dribbble.com/jag/projects/560305-CURE-International-work
