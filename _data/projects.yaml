@@ -1,10 +1,9 @@
 ---
-- name: HospitalRun
-  url: https://hospitalrun.io
-  role: Co-founder
-  timeframe: 2014 – 2019
+- name: LightVision
+  role: Creator
+  timeframe: 20220
   summary: |
-    An open source, offline first EMR designed for hospitals in resource constrained locations using Ember.js, Couch, Pouch, and Node.
+    An open source light and sound visualization software that assists in visual and auditory haptic feedback.
   dribbble: https://dribbble.com/jag/projects/213165-HospitalRun
   project_image: /img/projects/hospitalrun.png
   stars: "4,172"
