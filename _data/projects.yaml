@@ -3,7 +3,7 @@
   role: Creator
   timeframe: 20220
   summary: |
-    An open source light and sound visualization software that enables real-time visual and auditory haptic feedback.
+    An open source light and sound visualization software that outputs real-time visual and auditory haptic feedback.
   dribbble: https://dribbble.com/jag/projects/213165-HospitalRun
   project_image: /img/projects/hospitalrun.png
   stars: "4,172"
