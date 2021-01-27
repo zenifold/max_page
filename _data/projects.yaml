@@ -1,10 +1,10 @@
 ---
 - name: Kinder For Norfolk
   url: http://kinderfornorfolk.com
-  role: Political Campaign Marketer
+  role: Political Marketer
   timeframe: 2021
   summary: |
-    A line of t-shirts for developers started with the help of nearly 500 <a href="https://www.kickstarter.com/projects/jag/dev-tees">Kickstarter backers</a> in 2013.
+    I run the political campaign marketing for my fiancee's 2021 run for District 89's Virginia House of Delegates position in our local government office.
   dribbble: https://dribbble.com/jag/projects/89915-Dev-Tees
   project_image: /img/projects/kfn-campaign.png
 
