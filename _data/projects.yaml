@@ -2,7 +2,7 @@
 - name: LightVision
   url: https://github.com/zenifold/LightVision
   role: Creator
-  timeframe: 20220
+  timeframe: 2020
   summary: |
     An open source light and sound visualization software that outputs real-time visual and auditory haptic feedback.
   project_image: /img/projects/soundbath-lightvision.png
