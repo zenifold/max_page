@@ -1,14 +1,14 @@
 ---
 - name: LightVision
+  url: https://github.com/zenifold/LightVision
   role: Creator
   timeframe: 20220
   summary: |
     An open source light and sound visualization software that outputs real-time visual and auditory haptic feedback.
-  dribbble: https://dribbble.com/jag/projects/213165-HospitalRun
   project_image: /img/projects/hospitalrun.png
-  stars: "4,172"
-  forks: "1,240"
-  contributors: "124"
+  stars: "165"
+  forks: "18"
+  contributors: "3"
 
 - name: Dev Tees
   url: http://devtees.com
