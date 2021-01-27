@@ -2,7 +2,7 @@
 
 This is my personal webpage built off of [Joel Glovier's](https://jglovier.github.io) beautiful creation. I'd like to think of this website as his bastard child - it's still pretty though, right? On maxs.page I write about topics that I enjoy, outline projects I am working on, and archive my thoughts and feelings. It's purely personal in nature and does not necessarily reflect the views of my employer, my family, my community, or anyone else besides me. It's just where I share things I've built, written, or done.
 
-It will eventually live here: [maxs.page](https://maxs.page)
+It lives here: [maxs.page](https://maxs.page)
 
 ## Running locally
 
