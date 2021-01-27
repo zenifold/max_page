@@ -10,13 +10,3 @@ It will eventually live here: [maxs.page](https://maxs.page)
 2. Install dependencies: `bundle install`
 3. Run the Jekyll Server: `bundle exec jekyll serve`
 4. View in browser at `http://localhost:4000`
-
-## Licensing
-
-Feel free to inspect the code structure, and reuse what is appropriate. But please respect that the files in the following directories are Copyright Joel Andrew Glovier. You may not reuse anything therein without my written permission:
-- _posts/
-- post-images/
-- img/
-- fonts/ (these fonts are licensed only for my own use)
-
-All other directories and files are MIT Licensed (where applicable).
