@@ -1,4 +1,13 @@
 ---
+- name: Kinder For Norfolk
+  url: http://kinderfornorfolk.com
+  role: Political Campaign Marketer
+  timeframe: 2021
+  summary: |
+    A line of t-shirts for developers started with the help of nearly 500 <a href="https://www.kickstarter.com/projects/jag/dev-tees">Kickstarter backers</a> in 2013.
+  dribbble: https://dribbble.com/jag/projects/89915-Dev-Tees
+  project_image: /img/projects/kfn-campaign.png
+
 - name: LightVision
   url: https://github.com/zenifold/LightVision
   role: Creator
@@ -9,15 +18,6 @@
   stars: "165"
   forks: "18"
   contributors: "3"
-
-- name: Dev Tees
-  url: http://devtees.com
-  role: Creator
-  timeframe: 2012 – Present
-  summary: |
-    A line of t-shirts for developers started with the help of nearly 500 <a href="https://www.kickstarter.com/projects/jag/dev-tees">Kickstarter backers</a> in 2013.
-  dribbble: https://dribbble.com/jag/projects/89915-Dev-Tees
-  project_image: /img/projects/devtees.png
 
 - name: RemoteJobs.io
   url: http://remotejobs.io
