@@ -19,14 +19,14 @@
   forks: "18"
   contributors: "3"
 
-- name: RemoteJobs.io
-  url: http://remotejobs.io
-  role: Creator
-  timeframe: 2012-2015
+- name: DMP Sound Productions
+  url: https://dmpvb.com/
+  role: Co-Founder
+  timeframe: 2019
   status: Acquired by LiftUX in 2015
   summary: |
     A job board and job seeker site for connecting remote employees with new opportunities. Acquired by <a href="https://liftux.com/">LiftUX</a>, 2015.
-  project_image: /img/projects/remotejobs-io.png
+  project_image: /img/projects/desert-dwellers-dmp.png
 
 - name: Fizzy syntax theme
   url: https://atom.io/themes/fizzy
