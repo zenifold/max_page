@@ -18,8 +18,7 @@
 
   <!-- for search engines and other machines -->
   <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}" />
-  <link rel="author" href="https://plus.google.com/+JoelGlovier/posts">
-  <link href='https://joelglovier.com/feed.xml' rel='alternate' type='application/rss+xml'>
+  <link href='https://maxs.page/feed.xml' rel='alternate' type='application/rss+xml'>
   <meta name="copyright" content="Max Murphy 2021" />
   <meta name="description" content="{{ site.description }}" />
   <meta name="robots" content="index, follow" />
@@ -35,30 +34,30 @@
   <!-- for social media -->
 
   <meta property="og:type" content="website" />
-  <meta property="og:image" content="https://joelglovier.com/img/ogimgs/joel-juggling.png" />
+  <meta property="og:image" content="https://maxs.page/img/intro-juggle.png" />
   <meta property="og:author" content="https://www.facebook.com/joelglovier" />
-  <meta name="twitter:image:src" content="https://joelglovier.com/img/ogimgs/joel-juggling.png">
+  <meta name="twitter:image:src" content="https://maxs.page/img/intro-juggle.png">
   <meta name="twitter:card" content="summary_large_image">
 
   {% if page.title %}
   <meta property="og:title" content="{{ page.title }}" />
   <meta name="twitter:title" content="{{ page.title }}">
   {% else %}
-  <meta property="og:title" content="JoelGlovier.com" />
-  <meta name="twitter:title" content="JoelGlovier.com">
+  <meta property="og:title" content="Maxs.Page" />
+  <meta name="twitter:title" content="Maxs.Page">
   {% endif %}
 
   {% if page.excerpt %}
   <meta property="og:description" content="{{ page.excerpt | strip_html }}" />
   <meta name="twitter:description" content="{{ page.excerpt | strip_html }}">
   {% else %}
-  <meta property="og:description" content="Joel Glovier's little space on the web." />
-  <meta name="twitter:description" content="Joel Glovier's little space on the web.">
+  <meta property="og:description" content="Max Murphy's page on the web." />
+  <meta name="twitter:description" content="Max Murphy's page on the web.">
   {% endif %}
 
-  <meta name="twitter:domain" content="joelglovier.com">
-  <meta name="twitter:site" content="@jglovier">
-  <meta name="twitter:creator" content="@jglovier">
-  <meta property="og:site_name" content="JoelGlovier.com" />
-  <meta property="og:url" content="https://joelglovier.com{{ page.url | replace:'index.html','' }}/" />
+  <meta name="twitter:domain" content="maxs.page">
+  <meta name="twitter:site" content="@zenifold">
+  <meta name="twitter:creator" content="@zenifold">
+  <meta property="og:site_name" content="maxs.page" />
+  <meta property="og:url" content="https://maxs.page{{ page.url | replace:'index.html','' }}/" />
 </head>
