@@ -36,12 +36,12 @@ These principles represent some of the lessons I've learned:
 - Unique parts of a product should look distinct from other parts.
 
 ## Leadership
+- Leadership is not management, and it does not require authority. It's not an organizational role, it's how you work.
 - Empowering others to make decisions and take action is critical to team success.
 - Commit clearly and intentionally.
 - Set the example by what you do.
 - Aim to close loose ends. You are responsible for momentum.
 - Identify blockers and take responsibility to remove them.
-- Leadership is not management, and it does not require authority. It's not an organizational role, it's how you work.
 
 ### Management
 
