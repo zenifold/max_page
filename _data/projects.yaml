@@ -26,35 +26,3 @@
   summary: |
     DMP is a group of sound and light engineers who put on in-person and virtual events that cater to the electronic/EDM market.
   project_image: /img/projects/desert-dwellers-dmp.png
-
-- name: Fizzy syntax theme
-  url: https://atom.io/themes/fizzy
-  role: Creator
-  timeframe: 2014 - Present
-  summary: |
-    A custom syntax theme for <a href="https://atom.io/" target="_blank">Atom</a> with bright and bubbly colors.
-  project_image: /img/projects/fizzy.png
-  downloads: "61,336"
-  contributors: "6"
-
-- name: Resume template
-  url: https://github.com/jglovier/resume-template
-  role: Creator
-  timeframe: 2015 - Present
-  summary: |
-    A simple Jekyll-powered resume template for GitHub Pages sites.
-  project_image: /img/projects/github-pages-resume-template.png
-  stars: "675"
-  forks: "537"
-  contributors: "14"
-
-- name: Minima
-  url: https://github.com/jekyll/minima
-  role: Creator
-  timeframe: 2014
-  summary: |
-    The default Jekyll theme that shipped with the release of Jekyll 2.0.
-  project_image: /img/projects/minima.png
-  stars: "842"
-  forks: "706"
-  contributors: "34"
