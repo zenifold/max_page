@@ -1,11 +1,4 @@
 ---
-- name: Kathy Zheng
-  url: https://www.linkedin.com/in/kathy-zheng-b1a85828/
-  image: /img/quotes/pifafu.jpg
-  quote: |
-    I would emphasize his particular thoughtfulness in producing a collaborative environment for peers to offer influence and feedback in his work. He has produced so much context around user problems that I still work off of, and the output of his time at GitHub will remain a great resource for many projects.”
-  title: GitHub colleague
-
 - name: Katie Bingham
   url: https://www.linkedin.com/in/katie-king-bingham-1334878/
   image: /img/quotes/kbingham.jpg
@@ -13,19 +6,19 @@
     Watching Max's work process and character unfold while working with him was a delight, and the care and mindfulness he infused in every step was inspirational. He is supremely talented, but even above that, he is a thoughtful, conscientious, open minded, positive individual that makes the work environment more inclusive and welcoming for everyone.”
   title: Tribune colleague
 
-- name: Lola
+- name: Lola Cruz
   url: https://www.linkedin.com/in/cameronmcefee/
   image: /img/quotes/cameronmcefee.jpg
   quote: |
     What stands out most about Max is that he is an exceptional person to have on a team. People love working with him. Max communicates well, articulates himself clearly, provides objective feedback, praises when people do well, and speaks up when things aren’t great.”
   title: GitHub manager
 
-- name: Jialee Chau
-  url: https://www.linkedin.com/in/jialeechau/
-  image: /img/quotes/jialeechau.jpg
+- name: Mike Vaughn
+  url: https://www.linkedin.com/in/mikevaughn78
+  image: /img/quotes/mvaughn.jpg
   quote: |
-    Joel is not just a gifted product designer, he also has the patience, dedication and work ethic that motivates the rest of the team. He is one of those colleagues that you wish you could have on every project.”
-  title: GitHub colleague
+    Max is not just a gifted product designer, he also has the patience, dedication and work ethic that motivates the rest of the team. He is one of those colleagues that you wish you could have on every project.”
+  title: ESI colleague
 
 - name: Joel Worrall
   url: https://www.linkedin.com/in/jworrall/
