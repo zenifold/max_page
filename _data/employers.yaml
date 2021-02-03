@@ -69,9 +69,9 @@
   has_case_studies: false
   image: /img/new-leaf.png
   image_alt: My clients have included organizations such as StackOverflow, AndCulture, CURE International, Spreadshirt, Papertrail, and many more.
-
-- name: MBA Program
-  url: https://datascience.virginia.edu/degrees/mba-msds-degree
+  
+- name: MBA MSDS
+  url: https://www.ecpi.edu/
   role: University of Virginia School of Data Science
   timeframe: 2021 - Current
   summary: |
@@ -79,10 +79,8 @@
   has_case_studies: false
   image: /img/teaching-img-draft.png
   image_alt: Illustration of a book and an apple.
-
-# Going back to school
   
-  - name: Bachelors of Computer Science
+- name: Bachelors of Computer Science
   url: https://www.ecpi.edu/
   role: East Coast Polytechnic Institute - 3.54 GPA
   timeframe: 2011 - 2014
