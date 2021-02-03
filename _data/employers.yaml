@@ -79,6 +79,8 @@
   has_case_studies: false
   image: /img/teaching-img-draft.png
   image_alt: Illustration of a book and an apple.
+
+# Going back to school
   
   - name: Bachelors of Computer Science
   url: https://www.ecpi.edu/
