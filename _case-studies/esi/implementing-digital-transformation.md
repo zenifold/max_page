@@ -9,7 +9,12 @@ bodyclass: absolute-site-header
 
 ## Outlining the challenge
 
-ESI Leadership wanted to identify the best way to move forward with the digital transformation of their existing degree programs into interactive online courses any student could take domestically or abroad. Online degree programs would allow their family of colleges to grow their student audience outside their traditional geographic footprint. I was put to the task of outlining the technical requirements needed to build out a Learning Management System in house. With this came the task of identifying updates that would be required in our existing network infrastructure to support a cloud based system architecture.
+ESI Leadership wanted to identify the best way to move forward with the digital transformation of their existing degree programs into interactive online courses any student could take domestically or abroad. Online degree programs would allow their family of colleges to grow their student audience outside their traditional geographic footprint. I was first put to the task of outlining the technical requirements needed to build out a Learning Management System in house. With this came the task of identifying updates that would be required in our existing network infrastructure to support a cloud based system architecture. 
+
+- Allow students to complete degree and certification programs online
+- Create an interactive  digital classroom environment between students and teachers
+- Allow for greater collaboration between students enrolled within the same program
+- Provide greater context to course materials and concepts by designing new labs and learning modules
 
 ## The build process
 
