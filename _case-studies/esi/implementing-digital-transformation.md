@@ -9,7 +9,7 @@ bodyclass: absolute-site-header
 
 ## Outlining the challenge
 
-ESI Leadership wanted to find out a way to transform their existing degree and certification programs into digital courses any student could take domestically or abroad. This would integrate online learning into their list of accredited programs each college offered. 
+ESI Leadership wanted to identify the best way to move forward with the digital transformation of their existing degree programs into interactive online courses any student could take domestically or abroad. Online degree programs would allow their family of colleges to grow their student audience outside their traditional geographic footprint. I was put to the task of outlining the technical requirements needed to build out a Learning Management System in house. With this came the task of identifying updates that would be required in our existing network infrastructure to support a cloud based system architecture.
 
 ## The build process
 
@@ -27,7 +27,7 @@ Executive leadership was highly engaged throughout the development process, and 
 
 The next step in the course of implementing the online course modules was training. With the grace of the Director of Admissions, I was able to work with the entire admissions department (at all levels, from entry level associates to managers and directors) to evangelize the benefits of this new system, how it might impact their jobs, and offered the ability to provide additional feedback that potentially helped our program further succeed. I orchestrated team learning sessions, hosted virtual and in-person meetings throughout our network of colleges, and campus locations. I always tried to place an emphasis on how this new system will make their lives easier, and ultimately, make our students happier.
 
-## From conept to product
+## From concept to product
 
 Once the staff was trained and the online learning management system was integrated with our current CRM (which we ultimately had to update), it was set to launch. In terms of project estimates, we were able to ship and deliver this platform under budget and within the specified timeframe. While managing the development and implementation of this program, I was concurrently running several other projects for the organization, relating to their customer/student facing website (link to article), lead generation tactics (link to article), and building out marketing automation workflows (link to article).
 
