@@ -7,7 +7,7 @@ thumnail: /img/case-studies/case-study-time-responsive-redesign-thumbnail.png
 bodyclass: absolute-site-header
 ---
 
-## Getting Started
+## The Need
 
 ESI Leadership wanted to find out a way to transform their existing degree and certification programs into digital courses any student could take domestically or abroad. This would integrate online learning into their list of accredited programs each college offered. 
 
