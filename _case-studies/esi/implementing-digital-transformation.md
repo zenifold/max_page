@@ -9,18 +9,18 @@ bodyclass: absolute-site-header
 
 ## Outlining the challenge
 
-ESI Leadership wanted to identify the best way to move forward with the digital transformation of their existing degree programs into interactive online courses any student could take domestically or abroad. Online degree programs would allow their family of colleges to grow their student audience outside their traditional geographic footprint.
+ESI Leadership wanted to identify the best way to move forward with the digital transformation of their existing degree programs into interactive online courses any student could take domestically or abroad. A new online learning environment would allow their group of trades focused colleges the ability to begin a new expansion process across the nation and abroad and roll out new renewable enegery focused trades programs ranging from solar, wind, and offshore engineering.
 
-Motives that supported the transition to online degree programs:
+With the help of key leaders within the company we pitched the product to the Founder and CEO. Our key motives that supported the transition to online degree programs were as followed:
 
 - Allowing students to complete degree and certification programs online and on their own time without the need to relocate to one of our campuses.
 - Createing an interactive digital classroom environment between students and teachers that fosters a culture of open communication and feedback.
 - Allow for greater collaboration and a sense of community between students enrolled within the same program no matter where they are physically located.
 - Provide greater context to course materials and concepts by designing new labs and learning modules that displays information in picture/video formats.
 
-I was first put to the task of outlining the technical requirements needed to build out a Learning Management System in house. With this came the task of identifying updates that would be required in our existing network infrastructure to support a cloud based system architecture. 
-
 ## The build process
+
+I was first put to the task of outlining the technical requirements needed to build out a Learning Management System in house. With this came the task of identifying updates that would be required in our existing network infrastructure to support a cloud based system architecture. 
 
 Coming from an education of Computer Science gained me a seat at the executive drawing board when it came to making decisions on the vendors, contracts, and technical investments needed to facilitate the overhaul of program materials to build out robust accredited online degree programs. 
 
