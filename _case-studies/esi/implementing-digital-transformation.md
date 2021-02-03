@@ -7,6 +7,21 @@ thumnail: /img/case-studies/case-study-time-responsive-redesign-thumbnail.png
 bodyclass: absolute-site-header
 ---
 
+Leadership wanted to find out a way to transform their existing degree and certification programs into digital courses any student could take domestically or abroad. This would integrate online learning into their list of accredited programs each college offered. 
+
+Coming from an education of Computer Science gained me a seat at the executive drawing board when it came to making decisions on the vendors, contracts, and technical investments needed to facilitate the overhaul of program materials to build out robust accredited online degree programs. 
+
+This was before the time of polished click and drag/no code LMS’s (Learning Management Systems). I used my knowledge of database architecture to define the requirements we would need to develop such an application and how it would communicate to our existing network infrastructure. Together with the System Admins and IT staff we were able design a new cloud based storage solution with Microsoft Azure Cloud Server.
+
+Next, I hit the ground running with the wireframing and architecture of the system pathways that would be needed to create a seamless experience for both the program instructors, as well as the students progressing through their course materials. This included different locations for sign-on with unique dashboards for both types of users. I managed the team who took our design framework and developed it into a ready-to-launch software, managing the project along the way, and maintaining course when challenges surfaced.
+
+Executive leadership was highly engaged throughout the development process, and I was the direct point of contact for any questions relating to the status of timelines, quality, foresaw risks, budgets, and features. The President and CEO was an older gentleman. He was extremely well versed in business strategy and economic policy; often foreseeing obstacles many years in advance due to his extensive experience. So from a high-level, he knew the trajectory and location of where we needed to be as an organization, just not the directions of how to get there. I became adept in my ability to walk through technical requirements, and concisely summarize various foreseen obstacles. I would often have to out “mind-manouver” him in strategic discussions, which earned his trust in my ability to take charge of the program and look at the long-term benefits (as well as implications) of each decision we make.
+
+The next step in the course of implementing the online course modules was training. With the grace of the Director of Admissions, I was able to work with the entire admissions department (at all levels, from entry level associates to managers and directors) to evangelize the benefits of this new system, how it might impact their jobs, and offered the ability to provide additional feedback that potentially helped our program further succeed. I orchestrated team learning sessions, hosted virtual and in-person meetings throughout our network of colleges, and campus locations. I always tried to place an emphasis on how this new system will make their lives easier, and ultimately, make our students happier.
+
+Once the staff was trained and the online learning management system was integrated with our current CRM (which we ultimately had to update), it was set to launch. In terms of project estimates, we were able to ship and deliver this platform under budget and within the specified timeframe. While managing the development and implementation of this program, I was concurrently running several other projects for the organization, relating to their customer/student facing website (link to article), lead generation tactics (link to article), and building out marketing automation workflows (link to article).
+
+
 [TIME Magazine](http://time.com/) has a rich history of content dating back to 1923. They've chronicled world events for decades, and their website is a treasure trove of news and history.
 
 But in 2012 that content was optimized primarily for a desktop browsing experience.
@@ -30,21 +45,21 @@ We partnered with TIME.com's in house design team, led by [Davina Anthony](https
       <span class="address-bar left"></span>
     </div>
     <div class="cs-figure-device-screen">
-      <img src="/img/case-studies/time/time-device-browser.png" alt="" class="cs-figure-device-image block img-full-width" />
+      <img src="/img/case-studies/esi/teacher-dashboard-desktop.png" alt="" class="cs-figure-device-image block img-full-width" />
     </div>
   </div>
 
   <div class="cs-figure-device cs-figure-device-tablet left mr4">
     <span class="cs-figure-device-button"></span>
     <div class="cs-figure-device-screen">
-      <img src="/img/case-studies/time/time-device-tablet.png" alt="" class="cs-figure-device-image block img-full-width" />
+      <img src="/img/case-studies/esi/teacher-dashboard-tablet.png" alt="" class="cs-figure-device-image block img-full-width" />
     </div>
   </div>
 
   <div class="cs-figure-device cs-figure-device-mobile left mr0">
     <span class="cs-figure-device-button"></span>
     <div class="cs-figure-device-screen">
-      <img src="/img/case-studies/time/time-device-mobile.png" alt="" class="cs-figure-device-image block img-full-width" />
+      <img src="/img/case-studies/esi/teacher-dashboard-mobile.png" alt="" class="cs-figure-device-image block img-full-width" />
     </div>
   </div>
 </div>
