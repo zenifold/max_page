@@ -9,12 +9,12 @@ bodyclass: absolute-site-header
 
 ## Outlining the challenge
 
-ESI Leadership wanted to identify the best way to move forward with the digital transformation of their existing degree programs into interactive online courses any student could take domestically or abroad. A new online learning environment would allow their group of trades focused colleges the ability to begin a new expansion process across the nation and abroad and roll out new renewable enegery focused trades programs ranging from solar, wind, and offshore engineering.
+ESI Leadership wanted to identify the best way to move forward with the digital transformation of their existing degree programs into interactive online courses any student could take domestically or abroad. A new online learning environment would allow their group of trades focused colleges the ability to begin a new expansion process across the nation and abroad and roll out new renewable energy focused trades programs ranging from solar, wind, and offshore engineering.
 
 With the help of key leaders within the company we pitched the product to the Founder and CEO. Our key motives that supported the transition to online degree programs were as followed:
 
 - Allowing students to complete degree and certification programs online and on their own time without the need to relocate to one of our campuses.
-- Createing an interactive digital classroom environment between students and teachers that fosters a culture of open communication and feedback.
+- Creating an interactive digital classroom environment between students and teachers that fosters a culture of open communication and feedback.
 - Allow for greater collaboration and a sense of community between students enrolled within the same program no matter where they are physically located.
 - Provide greater context to course materials and concepts by designing new labs and learning modules that displays information in picture/video formats.
 
@@ -30,7 +30,7 @@ Next, I hit the ground running with the wireframing and architecture of the syst
 
 ## Managing stakeholders
 
-Executive leadership was highly engaged throughout the development process, and I was the direct point of contact for any questions relating to the status of timelines, quality, foresaw risks, budgets, and features. The President and CEO was an older gentleman. He was extremely well versed in business strategy and economic policy; often foreseeing obstacles many years in advance due to his extensive experience. So from a high-level, he knew the trajectory and location of where we needed to be as an organization, just not the directions of how to get there. I became adept in my ability to walk through technical requirements, and concisely summarize various foreseen obstacles. I would often have to out “mind-manouver” him in strategic discussions, which earned his trust in my ability to take charge of the program and look at the long-term benefits (as well as implications) of each decision we make.
+Executive leadership was highly engaged throughout the development process, and I was the direct point of contact for any questions relating to the status of timelines, quality, foresaw risks, budgets, and features. The President and CEO was an older gentleman. He was extremely well versed in business strategy and economic policy; often foreseeing obstacles many years in advance due to his extensive experience. So from a high-level, he knew the trajectory and location of where we needed to be as an organization, just not the directions of how to get there. I became adept in my ability to walk through technical requirements, and concisely summarize various foreseen obstacles. I would often have to out “mind-maneuver" him in strategic discussions, which earned his trust in my ability to take charge of the program and look at the long-term benefits (as well as implications) of each decision we make.
 
 ## Implementing adoption
 
