@@ -14,7 +14,7 @@
   articles_list:
     - title: How I've built a research focused brand
       summary: Researching, analyzing, and implementing sustainable business innovation for CraniumTap.
-      url: https://medium.com/@jglovier/improving-code-review-on-github-ca550ceac5b8
+      url: /case-studies/craniumtap/building-craniumtap-with-research/
       image: /img/case-studies/craniumtap-retooling-and-shipping.png
 
 - name: Tribune Publishing
