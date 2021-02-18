@@ -10,12 +10,12 @@
   #dribbble: https://dribbble.com/jag/projects/540365-GitHub-work
   image: /img/case-studies/craniumtap-retooling-and-shipping.png
   image_alt: Retooling CraniumTap services and improving the business.
-  #articles_layout: l_1_up
-  #articles_list:
-    #- title: How I've built a research focused brand
-    #  summary: Researching, analyzing, and implementing sustainable business innovation for CraniumTap.
-    #  url: /case-studies/craniumtap/building-craniumtap-with-research/
-    #  image: /img/case-studies/craniumtap-retooling-and-shipping.png
+  articles_layout: l_1_up
+  articles_list:
+    - title: How I've built a research focused brand
+      summary: Researching, analyzing, and implementing sustainable business innovation for CraniumTap.
+      url: https://craniumtap.com
+      image: /img/case-studies/craniumtap-retooling-and-shipping.png
 
 - name: Tribune Publishing
   url: https://www.tribpub.com/
