@@ -14,7 +14,7 @@
   articles_list:
     - title: How I've built a research focused brand
       summary: Researching, analyzing, and implementing sustainable business innovation for CraniumTap.
-      url: https://craniumtap.com
+      url: /case-studies/craniumtap/building-craniumtap-with-research/
       image: /img/case-studies/craniumtap-retooling-and-shipping.png
 
 - name: Tribune Publishing
