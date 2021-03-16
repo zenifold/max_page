@@ -8,14 +8,14 @@
   dribbble: https://dribbble.com/jag/projects/89915-Dev-Tees
   project_image: /img/projects/KFN-poster.png
 
-- name: Quanti.ai
-  url: https://quanti.ai
-  role: Founder
-  timeframe: 2020
-  summary: |
+#- name: Quanti.ai
+#  url: https://quanti.ai
+#  role: Founder
+#  timeframe: 2020
+#  summary: |
     Quanti helps organizations eliminate bias, roadblocks, uncertainties, and challenges within the marketplace. Our process is driven by machine learning algorithms that let us connect the dots between respondent experience, engagement, and participation.
-  dribbble: https://dribbble.com/jag/projects/89915-Dev-Tees
-  project_image: /img/projects/cropped-Q-premier-purple-all-text-cropped.png
+#  dribbble: https://dribbble.com/jag/projects/89915-Dev-Tees
+#  project_image: /img/projects/cropped-Q-premier-purple-all-text-cropped.png
 
 - name: LightVision
   url: https://github.com/zenifold/LightVision
