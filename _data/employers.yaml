@@ -1,10 +1,10 @@
 ---
 - name: CraniumTap
   url: https://craniumtap.com
-  role: Senior Research Analyst
+  role: Co-Founder
   timeframe: 2020 - 2021
-  role_2: Research & Marketing Analyst
-  timeframe_2: 2019 - 2020
+  #role_2: Research & Marketing Analyst
+  #timeframe_2: 2019 - 2020
   summary: |
     I designed and built experiences, automations, and new processes for the imrpovement of CraniumTap's research and analytics services. Take a look at the case study to see how I've transformed this volitile startup into a sustainable business.
   #dribbble: https://dribbble.com/jag/projects/540365-GitHub-work
@@ -19,7 +19,7 @@
 
 - name: Tribune Publishing
   url: https://www.tribpub.com/
-  role: Business & Marketing Analyst
+  role: Business Analyst - Revenue & Ad Operations
   timeframe: 2019
   summary: |
     At Tribune I help launch <a href="https://www.arcpublishing.com/">new products</a>. I spearheaded the development of workflow automation projects that created efficiencies within service fulfullment, operations processes, and estimations of redundency within various local and national teams.
@@ -29,9 +29,9 @@
 
 - name: ESI
   url: http://actstaff.com/
-  role: Digital Product Manager
+  role: Product Marketing Manager
   timeframe: 2017 - 2019
-  role_2: Senior Web Developer
+  role_2: Full-stack Web Developer
   timeframe_2: 2016 - 2017
   summary: |
     At ESI, a group of trades focused colleges, I developed implementations of responsive websites such as <a href="https://aviationmaintenance.edu">AIM.edu</a>, <a href="https://centuracollege.edu">CenturaCollege.edu</a>, and <a href="http://www.tidewatertechtrades.edu/">TidewaterTech.edu</a>. I also engineered a dynamic LMS for our online accredited degree programs that thousands of students have completed domestically and abroad.
