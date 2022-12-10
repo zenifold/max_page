@@ -1,4 +1,23 @@
 ---
+
+- name: Amplified Digital
+  url: https://amplifieddigitalagency.com/
+  role: Senior Analyst - Strategy & Analytics
+  timeframe: 2021 - 2022
+  #role_2: Research & Marketing Analyst
+  #timeframe_2: 2019 - 2020
+  summary: |
+    I designed and built experiences, automations, and new processes for the imrpovement of CraniumTap's research and analytics services. Take a look at the case study to see how I've transformed this volitile startup into a sustainable business.
+  #dribbble: https://dribbble.com/jag/projects/540365-GitHub-work
+  image: /img/case-studies/craniumtap-retooling-and-shipping.png
+  image_alt: Retooling CraniumTap services and improving the business.
+  articles_layout: l_1_up
+  articles_list:
+    - title: How I've built a research focused brand
+      summary: Researching, analyzing, and implementing sustainable business innovation for CraniumTap.
+      url: /case-studies/craniumtap/building-craniumtap-with-research/
+      image: /img/case-studies/craniumtap-retooling-and-shipping.png
+
 - name: CraniumTap
   url: https://craniumtap.com
   role: Co-Founder
