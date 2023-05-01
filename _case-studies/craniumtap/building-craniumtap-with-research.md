@@ -17,7 +17,7 @@ Together, we founded CraniumTap, a market research firm that focused on providin
 
 ## Invest, invest, invest
 
-Over the years, we worked tirelessly to refine our models and improve our services. We invested heavily in technology and hired the best and brightest talent to help us grow our business. And, as our reputation for providing high-quality market research services grew, so did our client base. We expanded from working primarily with Technology companies, to Enterprise consulting companies, Healthcare providers, Universities, and Government agencies.
+Over the years, we worked tirelessly to refine our models and improve our services. We invested heavily in technology and hired the best and brightest talent to help us grow our business. And, as our reputation for providing high-quality market research services grew, so did our client base. We expanded from working primarily with technology companies, to enterprise consulting companies, healthcare providers, universities, and government agencies.
 
 ## Turning the flywheel
 
