@@ -1,8 +1,51 @@
 ---
 
+- name: Relief Financial Technologies
+  url: https://relief.app/
+  role: Principal Product Manager
+  timeframe: 2023 - Current
+  summary: |
+    As the Principal Product Manager for our B2B application, I oversee our core product strategy, roadmap, ops, marketing, and business development for our B2B debt settlement product.
+  learned: #
+  has_case_studies: false
+  image: /img/new-leaf.png
+  image_alt: A new leaf startup.
+
+- name: PayPal
+  url: https://paypal.com/
+  role: Senior System Design Consultant
+  timeframe: 2022 - 2023
+  summary: |
+     As a System Design Consultant at PayPal, I worked alongside cross-functional teams reporting into their Program Management Office.
+  image: /img/case-studies/craniumtap-retooling-and-shipping.png
+  image_alt: Retooling CraniumTap services and improving the business.
+  articles_layout: l_1_up
+  #articles_list:
+  #  - title: How I've built a research focused brand
+  #    summary: Researching, analyzing, and implementing sustainable business innovation for CraniumTap.
+  #    url: /case-studies/craniumtap/building-craniumtap-with-research/
+  #    image: /img/case-studies/craniumtap-retooling-and-shipping.png
+
+  - name: People Rocket
+  url: https://peoplerocket.com/
+  role: Principal Consultant
+  timeframe: 2023
+  role_2: Innovation Consultant
+  timeframe_2: 2022
+  summary: |
+     As an Innovation Consultant at People Rocket, I stood at the vanguard of research, technology, and human-centered design. I developed novel approaches on how to enable innovation at Fortune 100 companies.
+  image: /img/case-studies/craniumtap-retooling-and-shipping.png
+  image_alt: Retooling CraniumTap services and improving the business.
+  articles_layout: l_1_up
+  #articles_list:
+  #  - title: How I've built a research focused brand
+  #    summary: Researching, analyzing, and implementing sustainable business innovation for CraniumTap.
+  #    url: /case-studies/craniumtap/building-craniumtap-with-research/
+  #    image: /img/case-studies/craniumtap-retooling-and-shipping.png
+
 - name: Amplified Digital
   url: https://amplifieddigitalagency.com/
-  role: Senior Analyst - Strategy & Analytics
+  role: Manager, Data Products
   timeframe: 2021 - 2022
   #role_2: Research & Marketing Analyst
   #timeframe_2: 2019 - 2020
@@ -38,8 +81,8 @@
 
 - name: Tribune Publishing
   url: https://www.tribpub.com/
-  role: Business Analyst - Revenue & Ad Operations
-  timeframe: 2019
+  role: Enterprise Solutions Consultant
+  timeframe: 2019 - 2020
   summary: |
     At Tribune I help launch <a href="https://www.arcpublishing.com/">new products</a>. I spearheaded the development of workflow automation projects that created efficiencies within service fulfullment, operations processes, and estimations of redundency within various local and national teams.
   has_case_studies: false
@@ -77,17 +120,6 @@
 #      summary: Using social media integrations to personalize an online giving experience.
 #      url: #
 #      image: /img/case-studies/case-study-curekids-thumbnail.png
-
-- name: Freelance Marketing Analyst
-  url: https://max.marketing
-  role: MAX Marketing
-  timeframe: 2013 - 2021
-  summary: |
-    I research insights and provide contextual analysis of product, brand, and customer experiences for a list of clients who exist within multiple industries and verticles.
-  learned: #
-  has_case_studies: false
-  image: /img/new-leaf.png
-  image_alt: My clients have included organizations such as StackOverflow, AndCulture, CURE International, Spreadshirt, Papertrail, and many more.
     
 - name: Bachelors of Computer Science
   url: https://www.ecpi.edu/
